@@ -1,4 +1,3 @@
-// ===== BANKING API - FULLY COMMENTED FOR LEARNING =====
 // Run: npm init -y && npm i express jsonwebtoken bcryptjs swagger-ui-express cors dotenv
 // Start: node server.js
 
